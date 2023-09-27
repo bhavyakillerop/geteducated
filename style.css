@@ -1,0 +1,56 @@
+
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: chocolate;
+    font-style: italic;
+
+}
+header {
+    background: color #333;;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #00bb32;
+    text-decoration: none;
+}
+
+/* Style course section */
+.content {
+    padding: 20px;
+}
+
+.course {
+    border: 1px solid #7cb415;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color:aqua;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+ image-orientation: ;   
+}
+
